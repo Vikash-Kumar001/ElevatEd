@@ -401,7 +401,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 Special thanks to all contributors, beta testers, and the open-source community for making EduMarket possible.
 
-**Built with ❤️ by the EduMarket Team**
+**Built with ❤️ by the Team Vikash**
 
 ---
 
