@@ -360,14 +360,21 @@ We welcome contributions from the community! Please read our [Contributing Guide
       <br />
       <sub><b>Shasvat</b></sub>
       <br />
-      <sub>Frontend Architect</sub>
+      <sub>Backend Engineer</sub>
     </td>
     <td align="center">
       <img src="https://github.com/sahil.png" width="100px;" alt="Sahil"/>
       <br />
       <sub><b>Sahil</b></sub>
       <br />
-      <sub>Backend Engineer</sub>
+      <sub>Frontend Architect</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/sahil.png" width="100px;" alt="Sahil"/>
+      <br />
+      <sub><b>Srijita</b></sub>
+      <br />
+      <sub>UI Design & Docx Prepartion</sub>
     </td>
   </tr>
 </table>
